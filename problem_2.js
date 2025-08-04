@@ -1,13 +1,3 @@
-/** Problem -01 ( Divide the Asset ) */
-var area = 2060;
-//write your code here
-var share = area / 2;
-
-console.log(share);
-
-
-
-
 /** Problem -02 ( Cycle or Laptop ) */
 var money = 10000;
 //write your code here
@@ -20,6 +10,3 @@ else if (money >= 10000) {
 else {
     console.log("Chocolate");
 }
-
-
-
